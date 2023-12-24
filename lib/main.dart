@@ -11,7 +11,9 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
+        appBar: AppBar(title: const Text('Simple voting App')),
         body: ListView.builder(
           itemCount: MockBandInfo.bandList.length,
           itemExtent: 50,
