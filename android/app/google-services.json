@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706588350201",
+    "project_id": "fir-votingappexample",
+    "storage_bucket": "fir-votingappexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706588350201:android:d2288c319ceae7adb1b428",
+        "android_client_info": {
+          "package_name": "com.example.firebase_voting_app_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6rr3DRkx3rw06wNRKQkYtZnQSjxUbtHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
