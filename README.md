@@ -1,3 +1,3 @@
-# firebase_voting_app_example
+# A simple Firebase voting app
 
-A new Flutter project.
+Suggestion in Pull requests are encouraged.
